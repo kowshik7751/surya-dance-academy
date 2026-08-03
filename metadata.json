@@ -1,0 +1,8 @@
+{
+  "name": "SURYA Dance Studio",
+  "description": "Premium website for SURYA Dance Studio and Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
